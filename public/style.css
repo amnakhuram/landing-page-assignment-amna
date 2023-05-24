@@ -1,0 +1,102 @@
+.header{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    float: left;
+    background-color: #ed751c
+}
+.logo{
+    margin: 0px;
+    padding: 0px;
+    width: 5%;
+    float: left;
+}
+.links{
+    margin: 30px 20px 10px 280px;
+    padding: 0px;
+    width: 70%;
+    float: left;
+}
+.logo img{
+    margin: 20px 0px 20px 50px;
+    padding: 0px;
+    width: 100%;
+    float: left;
+}
+#one , #two , #three , #four{
+    margin: 0px;
+    padding: 5px;
+    float: left;
+    width: 22%;
+    list-style-type: none;
+    font-size: 20PX;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+    text-shadow: 1px 2px #f5ba5e;
+    
+}
+a{
+    text-decoration: none;
+    color: #f5ba5e;
+}
+.banner{
+    margin: 10px 0PX 0PX 0PX;
+    padding: 0px;
+    float: left;
+    width: 100%;
+    height: 500px;
+}
+.NEW-PRODUCT{
+    margin: 10px 0px 0px 0px ;
+    padding: 0px;
+    float: left;
+    width: 100%;
+    /* background-color: #ed751c; */
+}
+.main{
+    margin: 10px 0px 0px 30px;
+    padding: 0px;
+    float: left;
+    width: 60%;
+}
+.large , .medium , .small{
+    margin: 10px;
+    padding: 0px;
+    float: left;
+    width: 30%;
+}
+.main-2{
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    float: left;
+    width: 30%;
+}
+.main-2 img{
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    width: 80%;
+    height: 350px;
+}
+.footer{
+    margin: 20px 0px 0px 0px;
+    padding: 0px;
+    float: left;
+    width: 100%;
+    background-color: #eb6a08
+}
+.products , .flavours , .location , .story{
+    margin: 30px 0px 20px 60px;
+    padding: 0px;
+    float: left;
+    width: 20%;  
+    font-size: large;
+    /* color: #f5ba5e;
+    text-shadow: 1px 2px #f5ba5e; */
+}
+.products img , .flavours img , .location img , .story img{
+    margin: 0px 0px 0px 20px;
+    padding: 0px;
+    width: 15%;  
+}
